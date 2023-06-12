@@ -4,4 +4,4 @@
 
 ### День 2
 
-[Здесь вы моежете их посмотреть](https://ivannikashin.github.io/placeholder/)
+[Здесь вы моежете его посмотреть](https://ivannikashin.github.io/placeholder/)
