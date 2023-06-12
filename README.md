@@ -5,4 +5,3 @@
 ### День 2
 
 [Здесь вы моежете их посмотреть](https://ivannikashin.github.io/placeholder/)
-s
